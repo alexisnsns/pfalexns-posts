@@ -1,5 +1,12 @@
 [
   {
+    "slug": "llms",
+    "title": "LLms",
+    "created_at": "2026-09-28T13:10:28.952Z",
+    "tags": [],
+    "excerpt": "### What it means for the computer boy\n\nSeems like LLMs mostly increase velocity of code. You can do a thousand iterations very fast. Without a proper Product Manager and a clear vision, it will mostl..."
+  },
+  {
     "slug": "keeping-track-of-the-current-thing",
     "title": "Keeping track of The Current Thing",
     "created_at": "2026-09-24T15:48:45.849Z",
